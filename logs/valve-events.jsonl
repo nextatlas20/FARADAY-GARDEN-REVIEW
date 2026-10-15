@@ -1,0 +1,16 @@
+{"plot_id":"P-ALDER","emitter":1,"observed_at":"2044-06-12T06:05Z","flow_lpm":1.2,"technician":"Mira","event_no":4}
+{"plot_id":"P-ALDER","emitter":2,"observed_at":"2044-06-12T06:06Z","flow_lpm":0,"technician":"Mira","event_no":5}
+{"plot_id":"P-BASIL","emitter":1,"observed_at":"2044-06-12T06:14Z","flow_lpm":1.1,"technician":"Sol","event_no":2}
+{"plot_id":"P-BASIL","emitter":2,"observed_at":"2044-06-12T06:16Z","flow_lpm":1.3,"technician":"Sol","event_no":3}
+{"plot_id":"P-BASIL","emitter":3,"observed_at":"2044-06-12T06:12Z","flow_lpm":1.0,"technician":"Sol","event_no":1}
+{"plot_id":"P-CEDAR","emitter":1,"observed_at":"2044-06-12T06:31Z","flow_lpm":1.4,"technician":"Ivo","event_no":7}
+{"plot_id":"P-DILL","emitter":1,"observed_at":"2044-06-12T06:08Z","flow_lpm":0.9,"technician":"Nia","event_no":9}
+{"plot_id":"P-DILL","emitter":2,"observed_at":"2044-06-12T06:07Z","flow_lpm":0.8,"technician":"Nia","event_no":8}
+{"plot_id":"P-ELM","emitter":1,"observed_at":"2044-06-12T06:19Z","flow_lpm":0,"technician":"Oren","event_no":4}
+{"plot_id":"P-ELM","emitter":2,"observed_at":"2044-06-12T06:18Z","flow_lpm":1.0,"technician":"Oren","event_no":3}
+{"plot_id":"P-ELM","emitter":2,"observed_at":"2044-06-12T06:18Z","flow_lpm":1.2,"technician":"Oren","event_no":5}
+{"plot_id":"P-ALDER","emitter":2,"observed_at":"2044-06-12T06:27Z","flow_lpm":1.0,"technician":"Mira","event_no":6}
+{"plot_id":"P-BASIL","emitter":3,"observed_at":"2044-06-12T06:40Z","flow_lpm":1.5,"technician":"Sol","event_no":8}
+{"plot_id":"P-CEDAR","emitter":2,"observed_at":"2044-06-12T06:20Z","flow_lpm":1.1,"technician":"Ivo","event_no":2}
+{"plot_id":"P-DILL","emitter":1,"observed_at":"bad-time","flow_lpm":1.0,"technician":"Nia","event_no":10}
+{"plot_id":"P-ELM","emitter":1,"observed_at":"2044-06-12T06:19Z","flow_lpm":true,"technician":"Oren","event_no":6}
