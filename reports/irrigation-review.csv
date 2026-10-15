@@ -1,0 +1,6 @@
+plot_id,zone,water_by,bed_type,planned_emitter_count,flowing_emitter_count,blocked_emitter_count,missing_emitter_count,latest_selected_at,usable_event_count,status
+P-CEDAR,North,2044-06-12T06:30Z,VEGETABLE,1,0,0,1,-,0,MISSING_EMITTER
+P-ELM,East,2044-06-12T06:20Z,VEGETABLE,2,1,1,0,2044-06-12T06:19Z,3,FLOW_BLOCKED
+P-BASIL,East,2044-06-12T06:15Z,VEGETABLE,3,3,0,0,2044-06-12T06:16Z,3,LATE_WATER
+P-ALDER,North,2044-06-12T06:25Z,HERB,2,2,0,0,2044-06-12T06:27Z,3,LATE_WATER
+P-DILL,West,2044-06-12T06:10Z,HERB,2,2,0,0,2044-06-12T06:08Z,2,CLEARED
